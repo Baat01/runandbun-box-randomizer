@@ -1,0 +1,20 @@
+{
+  "Raichu-Alola": { "both": 10, "same_name": 10, "neither": 473 },
+  "Growlithe-Hisui": { "both": 25, "same_name": 25, "neither": 474 },
+  "Arcanine-Hisui": { "both": 25, "same_name": 25, "neither": 474 },
+  "Exeggutor-Alola": { "both": 45, "same_name": 45, "neither": 475 },
+  "Weezing-Galar": { "both": 49, "same_name": 49, "neither": 476 },
+  "Typhlosion-Hisui": { "both": 80, "same_name": 80, "neither": 477 },
+  "Qwilfish-Hisui": { "both": 106, "same_name": 106, "neither": 478 },
+  "Overqwil": { "both": 106, "same_name": 106, "neither": 478 },
+  "Sneasel-Hisui": { "both": 109, "same_name": 109, "neither": 479 },
+  "Sneasler": { "both": 109, "same_name": 479, "neither": 479 },
+  "Samurott-Hisui": { "both": 252, "same_name": 252, "neither": 480 },
+  "Lilligant-Hisui": { "both": 273, "same_name": 273, "neither": 481 },
+  "Zorua-Hisui": { "both": 285, "same_name": 285, "neither": 482 },
+  "Zoroark-Hisui": { "both": 285, "same_name": 285, "neither": 482 },
+  "Sliggoo-Hisui": { "both": 358, "same_name": 358, "neither": 483 },
+  "Goodra-Hisui": { "both": 358, "same_name": 358, "neither": 483 },
+  "Avalugg-Hisui": { "both": 362, "same_name": 362, "neither": 484 },
+  "Decidueye-Hisui": { "both": 370, "same_name": 370, "neither": 485 }
+}
