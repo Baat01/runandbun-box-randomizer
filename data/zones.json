@@ -1,0 +1,1070 @@
+{
+    "Littleroot Town Fishing": [
+        { "name": "Surskit",  "rate": 20, "level": { "min": 2, "max": 3} },
+        { "name": "Surskit",  "rate": 20, "level": { "min": 2, "max": 3} },
+        { "name": "Lotad",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Lotad",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Finneon",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Finneon",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Tympole",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Tympole",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Tympole",  "rate": 4, "level": { "min": 2, "max": 3} },
+        { "name": "Tympole",  "rate": 1, "level": { "min": 2, "max": 3} }
+    ],
+
+    "Littleroot Town Surf": [
+        { "name": "Squirtle",  "rate": 30, "level": 5 },
+        { "name": "Totodile",  "rate": 30, "level": 5 },
+        { "name": "Oshawott",  "rate": 20, "level": 5 },
+        { "name": "Sobble",  "rate": 10, "level": 5 },
+        { "name": "Sobble",  "rate": 10, "level": 5 }
+    ],
+
+    "Route 101 Land": [
+        { "name": "Lillipup",  "rate": 20, "level": { "min": 2, "max": 3} },
+        { "name": "Bunnelby",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Bunnelby",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Buneary",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Skitty",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Zigzagoon-Galar",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Poochyena",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Starly",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Pidgey",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Litleo",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Deerling",  "rate": 4, "level": { "min": 2, "max": 3} },
+        { "name": "Deerling-Alola",  "rate": 1, "level": { "min": 2, "max": 3} }
+    ],
+
+    "Oldale Town Land": [
+        { "name": "Ponyta",  "rate": 20, "level": { "min": 2, "max": 3} },
+        { "name": "Ponyta",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Growlithe",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Growlithe",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Houndour",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Fletchling",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Sizzlipede",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Houndour",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Sizzlipede",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Salandit",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Litleo",  "rate": 4, "level": { "min": 2, "max": 3} },
+        { "name": "Litleo",  "rate": 1, "level": { "min": 2, "max": 3} }
+    ],
+
+    "Route 103 Land": [
+        { "name": "Gossifleur",  "rate": 20, "level": { "min": 2, "max": 3} },
+        { "name": "Bounsweet",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Bounsweet",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Exeggcute",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Budew",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Seedot",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Lotad",  "rate": 10, "level": { "min": 2, "max": 3}},
+        { "name": "Exeggcute",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Budew",  "rate": 5, "level": { "min": 2, "max": 3}},
+        { "name": "Seedot",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Deerling",  "rate": 4, "level": { "min": 2, "max": 3} },
+        { "name": "Deerling-S",  "rate": 1, "level": { "min": 2, "max": 3} }
+    ],
+
+    "Route 103 Fishing": [
+        { "name": "Tentacool",  "rate": 20, "level": { "min": 2, "max": 3} },
+        { "name": "Tentacool",  "rate": 20, "level": { "min": 2, "max": 3} },
+        { "name": "Skrelp",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Skrelp",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Skrelp",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Chinchou",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Chinchou",  "rate": 10, "level": { "min": 2, "max": 3} },
+        { "name": "Lotad",  "rate": 5, "level": { "min": 2, "max": 3} },
+        { "name": "Lotad",  "rate": 4, "level": { "min": 2, "max": 3} },
+        { "name": "Lotad",  "rate": 1, "level": { "min": 2, "max": 3} }
+    ],
+
+    "Route 103 Surf": [
+        { "name": "Tentacruel",  "rate": 30, "level": 50 },
+        { "name": "Tentacruel",  "rate": 30, "level": 50 },
+        { "name": "Dragalge",  "rate": 20, "level": 50 },
+        { "name": "Lanturn",  "rate": 10, "level": 50 },
+        { "name": "Ludicolo",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 102 Land": [
+        { "name": "Starly",  "rate": 20, "level": 5 },
+        { "name": "Starly",  "rate": 10, "level": 5 },
+        { "name": "Pidgey",  "rate": 10, "level": 5 },
+        { "name": "Pidgey",  "rate": 10, "level": 5 },
+        { "name": "Rookidee",  "rate": 10, "level": 5 },
+        { "name": "Rookidee",  "rate": 10, "level": 5 },
+        { "name": "Fletchling",  "rate": 10, "level": 5 },
+        { "name": "Fletchling",  "rate": 5, "level": 5 },
+        { "name": "Natu",  "rate": 5, "level": 5 },
+        { "name": "Natu",  "rate": 5, "level": 5 },
+        { "name": "Abra",  "rate": 4, "level": 5 },
+        { "name": "Ralts",  "rate": 1, "level": 5 }
+    ],
+
+    "Route 102 Fishing": [
+        { "name": "Surskit",  "rate": 20, "level": 5 },
+        { "name": "Surskit",  "rate": 20, "level": 5 },
+        { "name": "Psyduck",  "rate": 10, "level": 5 },
+        { "name": "Psyduck",  "rate": 10, "level": 5 },
+        { "name": "Remoraid",  "rate": 10, "level": 5 },
+        { "name": "Remoraid",  "rate": 10, "level": 5 },
+        { "name": "Carvanha",  "rate": 10, "level": 5 },
+        { "name": "Carvanha",  "rate": 5, "level": 5 },
+        { "name": "Carvanha",  "rate": 4, "level": 5 },
+        { "name": "Carvanha",  "rate": 1, "level": 5 }
+    ],
+
+    "Route 102 Surf": [
+        { "name": "Golduck",  "rate": 30, "level": 50 },
+        { "name": "Golduck",  "rate": 30, "level": 50 },
+        { "name": "Octillery",  "rate": 20, "level": 50 },
+        { "name": "Floatzel",  "rate": 10, "level": 50 },
+        { "name": "Floatzel",  "rate": 10, "level": 50 }
+    ],
+
+    "Petalburg City Fishing": [
+        { "name": "Croagunk",  "rate": 20, "level": 5 },
+        { "name": "Shellos",  "rate": 20, "level": 5 },
+        { "name": "Croagunk",  "rate": 10, "level": 5 },
+        { "name": "Surskit",  "rate": 10, "level": 5 },
+        { "name": "Surskit",  "rate": 10, "level": 5 },
+        { "name": "Tympole",  "rate": 10, "level": 5 },
+        { "name": "Lotad",  "rate": 10, "level": 5 },
+        { "name": "Tympole",  "rate": 5, "level": 5 },
+        { "name": "Shellos",  "rate": 4, "level": 5 },
+        { "name": "Shellos-East",  "rate": 1, "level": 5 }
+    ],
+
+    "Petalburg City Surf": [
+        { "name": "Froakie",  "rate": 30, "level": 5 },
+        { "name": "Popplio",  "rate": 30, "level": 5 },
+        { "name": "Froakie",  "rate": 20, "level": 5 },
+        { "name": "Popplio",  "rate": 10, "level": 5 },
+        { "name": "Popplio",  "rate": 10, "level": 5 },
+    ],
+
+    "Route 104 Land": [
+        { "name": "Paras",  "rate": 20, "level": 5 },
+        { "name": "Weedle",  "rate": 10, "level": 5 },
+        { "name": "Scatterbug",  "rate": 10, "level": 5 },
+        { "name": "Blipbug",  "rate": 10, "level": 5 },
+        { "name": "Sizzlipede",  "rate": 10, "level": 5 },
+        { "name": "Ekans",  "rate": 10, "level": 5 },
+        { "name": "Salandit",  "rate": 10, "level": 5 },
+        { "name": "Venipede",  "rate": 5, "level": 5 },
+        { "name": "Combee",  "rate": 5, "level": 5 },
+        { "name": "Yanma",  "rate": 5, "level": 5 },
+        { "name": "Ledyba",  "rate": 4, "level": 5 },
+        { "name": "Ledyba",  "rate": 1, "level": 5 }
+    ],
+
+    "Route 104 Fishing": [
+        { "name": "Horsea",  "rate": 20, "level": 5 },
+        { "name": "Remoraid",  "rate": 20, "level": 5 },
+        { "name": "Horsea",  "rate": 10, "level": 5 },
+        { "name": "Buizel",  "rate": 10, "level": 5 },
+        { "name": "Buizel",  "rate": 10, "level": 5 },
+        { "name": "Krabby",  "rate": 10, "level": 5 },
+        { "name": "Krabby",  "rate": 10, "level": 5 },
+        { "name": "Clauncher",  "rate": 5, "level": 5 },
+        { "name": "Clauncher",  "rate": 4, "level": 5 },
+        { "name": "Clauncher",  "rate": 1, "level": 5 }
+    ],
+
+    "Route 104 Surf": [
+        { "name": "Gyarados",  "rate": 30, "level": 50 },
+        { "name": "Gyarados",  "rate": 30, "level": 50 },
+        { "name": "Starmie",  "rate": 20, "level": 50 },
+        { "name": "Sharpedo",  "rate": 10, "level": 50 },
+        { "name": "Kingdra",  "rate": 10, "level": 50 }
+    ],
+
+    "Dewford Town Land": [
+        { "name": "Tyrogue",  "rate": 20, "level": 8 },
+        { "name": "Timburr",  "rate": 10, "level": 8 },
+        { "name": "Timburr",  "rate": 10, "level": 8 },
+        { "name": "Makuhita",  "rate": 10, "level": 8 },
+        { "name": "Farfetch'd-Galar",  "rate": 10, "level": 8 },
+        { "name": "Mienfoo",  "rate": 10, "level": 8 },
+        { "name": "Pancham",  "rate": 10, "level": 8 },
+        { "name": "Makuhita",  "rate": 5, "level": 8 },
+        { "name": "Meditite",  "rate": 5, "level": 8 },
+        { "name": "Stufful",  "rate": 5, "level": 8 },
+        { "name": "Croagunk",  "rate": 4, "level": 8 },
+        { "name": "Croagunk",  "rate": 1, "level": 8 }
+    ],
+
+    "Dewford Town Fishing": [
+        { "name": "Remoraid",  "rate": 20, "level": 8 },
+        { "name": "Horsea",  "rate": 20, "level": 8 },
+        { "name": "Carvanha",  "rate": 10, "level": 8 },
+        { "name": "Spheal",  "rate": 10, "level": 8 },
+        { "name": "Spheal",  "rate": 10, "level": 8 },
+        { "name": "Chewtle",  "rate": 10, "level": 8 },
+        { "name": "Chewtle",  "rate": 10, "level": 8 },
+        { "name": "Shellder",  "rate": 5, "level": 8 },
+        { "name": "Staryu",  "rate": 4, "level": 8 },
+        { "name": "Staryu",  "rate": 1, "level": 8 }
+    ],
+
+    "Dewford Town Surf": [
+        { "name": "Starmie",  "rate": 30, "level": 50 },
+        { "name": "Sharpedo",  "rate": 30, "level": 50 },
+        { "name": "Cloyster",  "rate": 20, "level": 50 },
+        { "name": "Cloyster",  "rate": 10, "level": 50 },
+        { "name": "Wailord",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 107 Fishing": [
+        { "name": "Remoraid",  "rate": 20, "level": 8 },
+        { "name": "Remoraid",  "rate": 20, "level": 8 },
+        { "name": "Horsea",  "rate": 10, "level": 8 },
+        { "name": "Horsea",  "rate": 10, "level": 8 },
+        { "name": "Horsea",  "rate": 10, "level": 8 },
+        { "name": "Horsea",  "rate": 10, "level": 8 },
+        { "name": "Carvanha",  "rate": 10, "level": 8 },
+        { "name": "Carvanha",  "rate": 5, "level": 8 },
+        { "name": "Carvanha",  "rate": 4, "level": 8 },
+        { "name": "Carvanha",  "rate": 1, "level": 8 }
+    ],
+
+    "Route 107 Surf": [
+        { "name": "Seadra",  "rate": 30, "level": 50 },
+        { "name": "Kingdra",  "rate": 30, "level": 50 },
+        { "name": "Octillery",  "rate": 20, "level": 50 },
+        { "name": "Cloyster",  "rate": 10, "level": 50 },
+        { "name": "Wailord",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 106 Fishing": [
+        { "name": "Spheal",  "rate": 20, "level": 8 },
+        { "name": "Spheal",  "rate": 20, "level": 8 },
+        { "name": "Chewtle",  "rate": 10, "level": 8 },
+        { "name": "Chewtle",  "rate": 10, "level": 8 },
+        { "name": "Chewtle",  "rate": 10, "level": 8 },
+        { "name": "Chewtle",  "rate": 10, "level": 8 },
+        { "name": "Shellder",  "rate": 10, "level": 8 },
+        { "name": "Staryu",  "rate": 5, "level": 8 },
+        { "name": "Staryu",  "rate": 4, "level": 8 },
+        { "name": "Staryu",  "rate": 1, "level": 8 }
+    ],
+
+    "Route 106 Surf": [
+        { "name": "Sealeo",  "rate": 30, "level": 50 },
+        { "name": "Walrein",  "rate": 30, "level": 50 },
+        { "name": "Drednaw",  "rate": 20, "level": 50 },
+        { "name": "Starmie",  "rate": 10, "level": 50 },
+        { "name": "Wailord",  "rate": 10, "level": 50 }
+    ],
+
+    "Granite Cave 1F Land": [
+        { "name": "Phanpy",  "rate": 20, "level": 8 },
+        { "name": "Phanpy",  "rate": 10, "level": 8 },
+        { "name": "Cufant",  "rate": 10, "level": 8 },
+        { "name": "Cufant",  "rate": 10, "level": 8 },
+        { "name": "Rhyhorn",  "rate": 10, "level": 8 },
+        { "name": "Rhyhorn",  "rate": 10, "level": 8 },
+        { "name": "Onix",  "rate": 10, "level": 8 },
+        { "name": "Aron",  "rate": 5, "level": 8 },
+        { "name": "Aron",  "rate": 5, "level": 8 },
+        { "name": "Togedemaru",  "rate": 5, "level": 8 },
+        { "name": "Sandile",  "rate": 4, "level": 8 },
+        { "name": "Sandile",  "rate": 1, "level": 8 }
+    ],
+
+    "Granite Cave B1F Land": [
+        { "name": "Cufant",  "rate": 20, "level": 8 },
+        { "name": "Cufant",  "rate": 10, "level": 8 },
+        { "name": "Geodude-Alola",  "rate": 10, "level": 8 },
+        { "name": "Geodude-Alola",  "rate": 10, "level": 8 },
+        { "name": "Dwebble",  "rate": 10, "level": 8 },
+        { "name": "Nosepass",  "rate": 10, "level": 8 },
+        { "name": "Togedemaru",  "rate": 10, "level": 8 },
+        { "name": "Dwebble",  "rate": 5, "level": 8 },
+        { "name": "Amaura",  "rate": 5, "level": 8 },
+        { "name": "Amaura",  "rate": 5, "level": 8 },
+        { "name": "Sandshrew-Alola",  "rate": 4, "level": 8 },
+        { "name": "Sandshrew-Alola",  "rate": 1, "level": 8 }
+    ],
+
+    "Granite Cave B2F Land": [
+        { "name": "Amaura",  "rate": 20, "level": 8 },
+        { "name": "Amaura",  "rate": 10, "level": 8 },
+        { "name": "Sandshrew-Alola",  "rate": 10, "level": 8 },
+        { "name": "Sandshrew-Alola",  "rate": 10, "level": 8 },
+        { "name": "Sneasel",  "rate": 10, "level": 8 },
+        { "name": "Snover",  "rate": 10, "level": 8 },
+        { "name": "Spheal",  "rate": 10, "level": 8 },
+        { "name": "Sneasel",  "rate": 5, "level": 8 },
+        { "name": "Snorunt",  "rate": 5, "level": 8 },
+        { "name": "Swinub",  "rate": 5, "level": 8 },
+        { "name": "Bergmite",  "rate": 4, "level": 8 },
+        { "name": "Bergmite",  "rate": 1, "level": 8 }
+    ],
+
+    "Granite Cave B2F Rock Smash": [
+        { "name": "Geodude-Alola",  "rate": 60, "level": 15 },
+        { "name": "Geodude-Alola",  "rate": 30, "level": 15 },
+        { "name": "Bergmite",  "rate": 5, "level": 15 },
+        { "name": "Bergmite",  "rate": 4, "level": 15 },
+        { "name": "Bergmite",  "rate": 1, "level": 15 }
+    ],
+
+    "Steven's Room Land": [
+        { "name": "Abra",  "rate": 20, "level": 8 },
+        { "name": "Hatenna",  "rate": 10, "level": 8 },
+        { "name": "Hatenna",  "rate": 10, "level": 8 },
+        { "name": "Gligar",  "rate": 10, "level": 8 },
+        { "name": "Nosepass",  "rate": 10, "level": 8 },
+        { "name": "Magnemite",  "rate": 10, "level": 8 },
+        { "name": "Baltoy",  "rate": 10, "level": 8 },
+        { "name": "Gligar",  "rate": 5, "level": 8 },
+        { "name": "Dottler",  "rate": 5, "level": 8 },
+        { "name": "Meditite",  "rate": 5, "level": 8 },
+        { "name": "Drowzee",  "rate": 4, "level": 8 },
+        { "name": "Drowzee",  "rate": 1, "level": 8 }
+    ],
+
+    "Route 109 Fishing": [
+        { "name": "Chewtle",  "rate": 20, "level": 10 },
+        { "name": "Tirtouga",  "rate": 20, "level": 10 },
+        { "name": "Chewtle",  "rate": 10, "level": 10 },
+        { "name": "Tirtouga",  "rate": 10, "level": 10 },
+        { "name": "Krabby",  "rate": 10, "level": 10 },
+        { "name": "Corphish",  "rate": 10, "level": 10 },
+        { "name": "Clauncher",  "rate": 10, "level": 10 },
+        { "name": "Tentacool",  "rate": 5, "level": 10 },
+        { "name": "Tynamo",  "rate": 4, "level": 10 },
+        { "name": "Tynamo",  "rate": 1, "level": 10 }
+    ],
+
+    "Route 109 Surf": [
+        { "name": "Wailord",  "rate": 30, "level": 50 },
+        { "name": "Drednaw",  "rate": 30, "level": 50 },
+        { "name": "Carracosta",  "rate": 20, "level": 50 },
+        { "name": "Wailord",  "rate": 10, "level": 50 },
+        { "name": "Carracosta",  "rate": 10, "level": 50 }
+    ],
+
+    "Slateport City Fishing": [
+        { "name": "Horsea",  "rate": 20, "level": 10 },
+        { "name": "Horsea",  "rate": 20, "level": 10 },
+        { "name": "Remoraid",  "rate": 10, "level": 10 },
+        { "name": "Remoraid",  "rate": 10, "level": 10 },
+        { "name": "Remoraid",  "rate": 10, "level": 10 },
+        { "name": "Buizel",  "rate": 10, "level": 10 },
+        { "name": "Buizel",  "rate": 10, "level": 10 },
+        { "name": "Qwilfish",  "rate": 5, "level": 10 },
+        { "name": "Qwilfish",  "rate": 4, "level": 10 },
+        { "name": "Qwilfish",  "rate": 1, "level": 10 }
+    ],
+
+    "Slateport City Surf": [
+        { "name": "Anorith",  "rate": 30, "level": { "min": 5, "max": 50} },
+        { "name": "Lileep",  "rate": 30, "level": { "min": 5, "max": 50} },
+        { "name": "Slowpoke",  "rate": 20, "level": { "min": 5, "max": 50} },
+        { "name": "Slowbro",  "rate": 10, "level": 50 },
+        { "name": "Slowking",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 110 Land": [
+        { "name": "Shinx",  "rate": 20, "level": 12 },
+        { "name": "Shinx",  "rate": 10, "level": 12 },
+        { "name": "Mareep",  "rate": 10, "level": 12 },
+        { "name": "Mareep",  "rate": 10, "level": 12 },
+        { "name": "Mareep",  "rate": 10, "level": 12 },
+        { "name": "Tynamo",  "rate": 10, "level": 12 },
+        { "name": "Tynamo",  "rate": 10, "level": 12 },
+        { "name": "Yamper",  "rate": 5, "level": 12 },
+        { "name": "Yamper",  "rate": 5, "level": 12 },
+        { "name": "Electrike",  "rate": 5, "level": 12 },
+        { "name": "Electrike",  "rate": 4, "level": 12 },
+        { "name": "Electrike",  "rate": 1, "level": 12 }
+    ],
+
+    "Route 110 Fishing": [
+        { "name": "Tynamo",  "rate": 20, "level": { "min": 5, "max": 20} },
+        { "name": "Eelektrik",  "rate": 20, "level": 20 },
+        { "name": "Chinchou",  "rate": 10, "level": 20 },
+        { "name": "Chinchou",  "rate": 10, "level": 20 },
+        { "name": "Chinchou",  "rate": 10, "level": 20 },
+        { "name": "Tentacool",  "rate": 10, "level": 20 },
+        { "name": "Tentacool",  "rate": 10, "level": 20 },
+        { "name": "Skrelp",  "rate": 5, "level": 20 },
+        { "name": "Seadra",  "rate": 4, "level": 20 },
+        { "name": "Seadra",  "rate": 1, "level": 20 }
+    ],
+
+    "Route 110 Surf": [
+        { "name": "Lanturn",  "rate": 30, "level": 50 },
+        { "name": "Lanturn",  "rate": 30, "level": 50 },
+        { "name": "Eelektross",  "rate": 20, "level": 50 },
+        { "name": "Eelektross",  "rate": 10, "level": 50 },
+        { "name": "Eelektross",  "rate": 10, "level": 50 }
+    ],
+
+    "Petalburg Woods Land": [
+        { "name": "Carnivine",  "rate": 20, "level": 14 },
+        { "name": "Carnivine",  "rate": 10, "level": 14 },
+        { "name": "Shroomish",  "rate": 10, "level": 14 },
+        { "name": "Shroomish",  "rate": 10, "level": 14 },
+        { "name": "Steenee",  "rate": 10, "level": 14 },
+        { "name": "Chikorita",  "rate": 10, "level": 14 },
+        { "name": "Bellsprout",  "rate": 10, "level": { "min": 5, "max": 14} },
+        { "name": "Gossifleur",  "rate": 5, "level": 14 },
+        { "name": "Paras",  "rate": 5, "level": 14 },
+        { "name": "Weepinbell",  "rate": 5, "level": 14 },
+        { "name": "Deerling",  "rate": 4, "level": 14 },
+        { "name": "Deerling-W",  "rate": 1, "level": 14 }
+    ],
+
+    "Rustboro City Land": [
+        { "name": "Rockruff",  "rate": 20, "level": 14 },
+        { "name": "Mudbray",  "rate": 10, "level": 14 },
+        { "name": "Phanpy",  "rate": 10, "level": 14 },
+        { "name": "Growlithe",  "rate": 10, "level": 14 },
+        { "name": "Houndour",  "rate": 10, "level": 14 },
+        { "name": "Meowth-Galar",  "rate": 10, "level": 14 },
+        { "name": "Togedemaru",  "rate": 10, "level": 14 },
+        { "name": "Mudbray",  "rate": 5, "level": 14 },
+        { "name": "Phanpy",  "rate": 5, "level": 14 },
+        { "name": "Herdier",  "rate": 5, "level": 14 },
+        { "name": "Stantler",  "rate": 4, "level": 14 },
+        { "name": "Stantler",  "rate": 1, "level": 14 }
+    ],
+
+    "Rustboro City Fossil": [
+        { "name": "Omanyte",  "rate": 9, "level": 20 },
+        { "name": "Kabuto",  "rate": 9, "level": 20 },
+        { "name": "Aerodactyl",  "rate": 9, "level": 20 },
+        { "name": "Lileep",  "rate": 9, "level": 20 },
+        { "name": "Anorith",  "rate": 9, "level": 20 },
+        { "name": "Cranidos",  "rate": 9, "level": 20 },
+        { "name": "Shieldon",  "rate": 9, "level": 20 },
+        { "name": "Tirtouga",  "rate": 9, "level": 20 },
+        { "name": "Archen",  "rate": 9, "level": 20 },
+        { "name": "Tyrunt",  "rate": 9, "level": 20 },
+        { "name": "Amaura",  "rate": 9, "level": 20 }
+    ],
+
+    "Route 115 Fishing": [
+        { "name": "Clamperl",  "rate": 20, "level": 14 },
+        { "name": "Clamperl",  "rate": 20, "level": 14 },
+        { "name": "Krabby",  "rate": 10, "level": 14 },
+        { "name": "Corphish",  "rate": 10, "level": 14 },
+        { "name": "Shellder",  "rate": 10, "level": 14 },
+        { "name": "Clauncher",  "rate": 10, "level": 14 },
+        { "name": "Remoraid",  "rate": 10, "level": 14 },
+        { "name": "Qwilfish",  "rate": 5, "level": 14 },
+        { "name": "Basculin",  "rate": 4, "level": 14 },
+        { "name": "Basculin-BS",  "rate": 1, "level": 14 }
+    ],
+
+    "Route 115 Surf": [
+        { "name": "Frillish",  "rate": 30, "level": { "min": 5, "max": 50} },
+        { "name": "Bruxish",  "rate": 30, "level": 50 },
+        { "name": "Jellicent",  "rate": 20, "level": 50 },
+        { "name": "Tentacruel",  "rate": 10, "level": 50 },
+        { "name": "Gyarados",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 116 Land": [
+        { "name": "Makuhita",  "rate": 20, "level": 14 },
+        { "name": "Tyrogue",  "rate": 10, "level": 14 },
+        { "name": "Tyrogue",  "rate": 10, "level": 14 },
+        { "name": "Munna",  "rate": 10, "level": 14 },
+        { "name": "Munna",  "rate": 10, "level": 14 },
+        { "name": "Hatenna",  "rate": 10, "level": 14 },
+        { "name": "Zigzagoon-Galar",  "rate": 10, "level": 14 },
+        { "name": "Hatenna",  "rate": 5, "level": 14 },
+        { "name": "Yanma",  "rate": 5, "level": 14 },
+        { "name": "Nidoran-F",  "rate": 5, "level": 14 },
+        { "name": "Nidoran-M",  "rate": 4, "level": 14 },
+        { "name": "Nidoran-M",  "rate": 1, "level": 14 }
+    ],
+
+    "Rusturf Tunnel Land": [
+        { "name": "Teddiursa",  "rate": 20, "level": 16 },
+        { "name": "Trapinch",  "rate": 10, "level": 16 },
+        { "name": "Trapinch",  "rate": 10, "level": 16 },
+        { "name": "Gligar",  "rate": 10, "level": 16 },
+        { "name": "Swinub",  "rate": 10, "level": 16 },
+        { "name": "Sandile",  "rate": 10, "level": 16 },
+        { "name": "Rockruff",  "rate": 10, "level": 16 },
+        { "name": "Gligar",  "rate": 5, "level": 16 },
+        { "name": "Geodude-Alola",  "rate": 5, "level": 16 },
+        { "name": "Roggenrola",  "rate": 5, "level": 16 },
+        { "name": "Roggenrola",  "rate": 4, "level": 16 },
+        { "name": "Roggenrola",  "rate": 1, "level": 16 }
+    ],
+
+    "Verdanturf Town Land": [
+        { "name": "Petilil",  "rate": 20, "level": 20 },
+        { "name": "Foongus",  "rate": 10, "level": 20 },
+        { "name": "Phanpy",  "rate": 10, "level": 20 },
+        { "name": "Mudbray",  "rate": 10, "level": 20 },
+        { "name": "Nidorina",  "rate": 10, "level": 20 },
+        { "name": "Nidorino",  "rate": 10, "level": 20 },
+        { "name": "Roselia",  "rate": 10, "level": 20 },
+        { "name": "Foongus",  "rate": 5, "level": 20 },
+        { "name": "Weepinbell",  "rate": 5, "level": 20 },
+        { "name": "Flaaffy",  "rate": 5, "level": 20 },
+        { "name": "Shroomish",  "rate": 4, "level": { "min": 5, "max": 20} },
+        { "name": "Breloom",  "rate": 1, "level": 20 }
+    ],
+
+    "Route 117 Land": [
+        { "name": "Pikachu",  "rate": 20, "level": 20 },
+        { "name": "Electrike",  "rate": 10, "level": 20 },
+        { "name": "Electrike",  "rate": 10, "level": 20 },
+        { "name": "Joltik",  "rate": 10, "level": 20 },
+        { "name": "Magnemite",  "rate": 10, "level": 20 },
+        { "name": "Togedemaru",  "rate": 10, "level": 20 },
+        { "name": "Toxel",  "rate": 10, "level": 20 },
+        { "name": "Meowth-Galar",  "rate": 5, "level": 20 },
+        { "name": "Yamper",  "rate": 5, "level": 20 },
+        { "name": "Luxio",  "rate": 5, "level": 20 },
+        { "name": "Flaaffy",  "rate": 4, "level": 20 },
+        { "name": "Flaaffy",  "rate": 1, "level": 20 }
+    ],
+
+    "Route 117 Fishing": [
+        { "name": "Tynamo",  "rate": 20, "level": { "min": 5, "max": 20} },
+        { "name": "Eelektrik",  "rate": 20, "level": 20 },
+        { "name": "Chinchou",  "rate": 10, "level": 20 },
+        { "name": "Chinchou",  "rate": 10, "level": 20 },
+        { "name": "Chinchou",  "rate": 10, "level": 20 },
+        { "name": "Stunfisk",  "rate": 10, "level": 20 },
+        { "name": "Palpitoad",  "rate": 10, "level": 20 },
+        { "name": "Stunfisk",  "rate": 5, "level": 20 },
+        { "name": "Grimer-Alola",  "rate": 4, "level": 20 },
+        { "name": "Grimer-Alola",  "rate": 1, "level": 20 }
+    ],
+
+    "Route 117 Surf": [
+        { "name": "Grimer-Alola",  "rate": 30, "level": { "min": 5, "max": 50} },
+        { "name": "Muk-Alola",  "rate": 30, "level": 50 },
+        { "name": "Muk-Alola",  "rate": 20, "level": 50 },
+        { "name": "Lanturn",  "rate": 10, "level": 50 },
+        { "name": "Lanturn",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 111 Land": [
+        { "name": "Vibrava",  "rate": 20, "level": 32 },
+        { "name": "Donphan",  "rate": 10, "level": 32 },
+        { "name": "Drilbur",  "rate": 10, "level": { "min": 5, "max": 32} },
+        { "name": "Onix",  "rate": 10, "level": 32 },
+        { "name": "Boldore",  "rate": 10, "level": 32 },
+        { "name": "Dwebble",  "rate": 10, "level": 32 },
+        { "name": "Maractus",  "rate": 10, "level": 32 },
+        { "name": "Trapinch",  "rate": 5, "level": { "min": 5, "max": 32} },
+        { "name": "Krokorok",  "rate": 5, "level": 32 },
+        { "name": "Krokorok",  "rate": 5, "level": 32 },
+        { "name": "Excadrill",  "rate": 4, "level": 32 },
+        { "name": "Krookodile",  "rate": 1, "level": 32 }
+    ],
+
+    "Route 111 Fishing": [
+        { "name": "Shellos",  "rate": 20, "level": 20 },
+        { "name": "Shellos",  "rate": 20, "level": 20 },
+        { "name": "Tympole",  "rate": 10, "level": { "min": 5, "max": 20} },
+        { "name": "Tympole",  "rate": 10, "level": { "min": 5, "max": 20} },
+        { "name": "Palpitoad",  "rate": 10, "level": 20 },
+        { "name": "Stunfisk",  "rate": 10, "level": 20 },
+        { "name": "Croagunk",  "rate": 10, "level": 20 },
+        { "name": "Stunfisk",  "rate": 5, "level": 20 },
+        { "name": "Chinchou",  "rate": 4, "level": 20 },
+        { "name": "Chinchou",  "rate": 1, "level": 20 }
+    ],
+
+    "Route 111 Surf": [
+        { "name": "Seismitoad",  "rate": 30, "level": 50 },
+        { "name": "Gastrodon",  "rate": 30, "level": 50 },
+        { "name": "Toxicroak",  "rate": 20, "level": 50 },
+        { "name": "Stunfisk",  "rate": 10, "level": 50 },
+        { "name": "Stunfisk",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 111 Rock Smash": [
+        { "name": "Roggenrola",  "rate": 60, "level": 20 },
+        { "name": "Geodude-Alola",  "rate": 30, "level": 20 },
+        { "name": "Dwebble",  "rate": 5, "level": 20 },
+        { "name": "Dwebble",  "rate": 4, "level": 20 },
+        { "name": "Dwebble",  "rate": 1, "level": 20 }
+    ],
+
+    "Route 118 Land": [
+        { "name": "Swablu",  "rate": 20, "level": { "min": 5, "max": 50} },
+        { "name": "Altaria",  "rate": 10, "level": 50 },
+        { "name": "Kangaskhan",  "rate": 10, "level": 50 },
+        { "name": "Kangaskhan",  "rate": 10, "level": 50 },
+        { "name": "Beedrill",  "rate": 10, "level": 50 },
+        { "name": "Beedrill",  "rate": 10, "level": 50 },
+        { "name": "Absol",  "rate": 10, "level": 50 },
+        { "name": "Araquanid",  "rate": 5, "level": 50 },
+        { "name": "Araquanid",  "rate": 5, "level": 50 },
+        { "name": "Galvantula",  "rate": 5, "level": 50 },
+        { "name": "Carnivine",  "rate": 4, "level": 50 },
+        { "name": "Carnivine",  "rate": 1, "level": 50 }
+    ],
+
+    "Route 118 Fishing": [
+        { "name": "Tentacool",  "rate": 20, "level": 20 },
+        { "name": "Tentacool",  "rate": 20, "level": 20 },
+        { "name": "Qwilfish",  "rate": 10, "level": 20 },
+        { "name": "Dewpider",  "rate": 10, "level": { "min": 5, "max": 20} },
+        { "name": "Basculin",  "rate": 10, "level": 20 },
+        { "name": "Bruxish",  "rate": 10, "level": 20 },
+        { "name": "Skrelp",  "rate": 10, "level": 20 },
+        { "name": "Qwilfish",  "rate": 5, "level": 20 },
+        { "name": "Araquanid",  "rate": 4, "level": 20 },
+        { "name": "Araquanid",  "rate": 1, "level": 20 }
+    ],
+
+    "Route 118 Surf": [
+        { "name": "Qwilfish",  "rate": 30, "level": 50 },
+        { "name": "Tentacruel",  "rate": 30, "level": 50 },
+        { "name": "Araquanid",  "rate": 20, "level": 50 },
+        { "name": "Gyarados",  "rate": 10, "level": 50 },
+        { "name": "Gyarados",  "rate": 10, "level": 50 }
+    ],
+
+    "Altering Cave Land": [
+        { "name": "Riolu",  "rate": 20, "level": { "min": 5, "max": 26} },
+        { "name": "Timburr",  "rate": 10, "level": { "min": 5, "max": 26} },
+        { "name": "Sandshrew-Alola",  "rate": 10, "level": { "min": 5, "max": 26} },
+        { "name": "Magnemite",  "rate": 10, "level": { "min": 5, "max": 26} },
+        { "name": "Bergmite",  "rate": 10, "level": 26 },
+        { "name": "Numel",  "rate": 10, "level": 26 },
+        { "name": "Porygon",  "rate": 10, "level": 26 },
+        { "name": "Gurdurr",  "rate": 5, "level": 26 },
+        { "name": "Sandslash-Alola",  "rate": 5, "level": 26 },
+        { "name": "Magneton",  "rate": 5, "level": 26 },
+        { "name": "Torkoal",  "rate": 4, "level": 26 },
+        { "name": "Torkoal",  "rate": 1, "level": 26 }
+    ],
+
+    "Mirage Tower 1F Land": [
+        { "name": "Drilbur",  "rate": 20, "level": { "min": 5, "max": 32} },
+        { "name": "Baltoy",  "rate": 10, "level": { "min": 5, "max": 32} },
+        { "name": "Baltoy",  "rate": 10, "level": { "min": 5, "max": 32} },
+        { "name": "Lairon",  "rate": 10, "level": 32 },
+        { "name": "Lairon",  "rate": 10, "level": 32 },
+        { "name": "Skorupi",  "rate": 10, "level": 32 },
+        { "name": "Krokorok",  "rate": 10, "level": 32 },
+        { "name": "Excadrill",  "rate": 5, "level": 32 },
+        { "name": "Claydol",  "rate": 5, "level": 32 },
+        { "name": "Krookodile",  "rate": 5, "level": 32 },
+        { "name": "Solosis",  "rate": 4, "level": { "min": 5, "max": 32} },
+        { "name": "Duosion",  "rate": 1, "level": 32 }
+    ],
+
+    "Mirage Tower 2F Land": [
+        { "name": "Baltoy",  "rate": 20, "level": 32 },
+        { "name": "Claydol",  "rate": 10, "level": 32 },
+        { "name": "Solosis",  "rate": 10, "level": { "min": 5, "max": 32} },
+        { "name": "Duosion",  "rate": 10, "level": 32 },
+        { "name": "Munna",  "rate": 10, "level": { "min": 5, "max": 32} },
+        { "name": "Musharna",  "rate": 10, "level": 32 },
+        { "name": "Mawile",  "rate": 10, "level": 32 },
+        { "name": "Nosepass",  "rate": 5, "level": 32 },
+        { "name": "Lairon",  "rate": 5, "level": 32 },
+        { "name": "Sigilyph",  "rate": 5, "level": 32 },
+        { "name": "Hattrem",  "rate": 4, "level": 32 },
+        { "name": "Hatterene",  "rate": 1, "level": 32 }
+    ],
+
+    "Mirage Tower 3F Land": [
+        { "name": "Sigilyph",  "rate": 20, "level": 32 },
+        { "name": "Orbeetle",  "rate": 10, "level": 32 },
+        { "name": "Claydol",  "rate": 10, "level": 32 },
+        { "name": "Zubat",  "rate": 10, "level": { "min": 5, "max": 32} },
+        { "name": "Golbat",  "rate": 10, "level": 32 },
+        { "name": "Karrablast",  "rate": 10, "level": 32 },
+        { "name": "Shelmet",  "rate": 10, "level": 32 },
+        { "name": "Gliscor",  "rate": 5, "level": 32 },
+        { "name": "Galvantula",  "rate": 5, "level": 32 },
+        { "name": "Skorupi",  "rate": 5, "level": 32 },
+        { "name": "Noibat",  "rate": 4, "level": { "min": 5, "max": 32} },
+        { "name": "Noivern",  "rate": 1, "level": 32 }
+    ],
+
+    "Mirage Tower 4F Land": [
+        { "name": "Zorua",  "rate": 20, "level": { "min": 5, "max": 32} },
+        { "name": "Zoroark",  "rate": 10, "level": 32 },
+        { "name": "Xatu",  "rate": 10, "level": 32 },
+        { "name": "Hattrem",  "rate": 10, "level": 32 },
+        { "name": "Sigilyph",  "rate": 10, "level": 32 },
+        { "name": "Absol",  "rate": 10, "level": 32 },
+        { "name": "Hypno",  "rate": 10, "level": 32 },
+        { "name": "Drapion",  "rate": 5, "level": 32 },
+        { "name": "Hatterene",  "rate": 5, "level": 32 },
+        { "name": "Kirlia",  "rate": 5, "level": 32 },
+        { "name": "Claydol",  "rate": 4, "level": 32 },
+        { "name": "Claydol",  "rate": 1, "level": 32 }
+    ],
+
+    "Route 113 Land": [
+        { "name": "Murkrow",  "rate": 20, "level": 32 },
+        { "name": "Stunky",  "rate": 10, "level": { "min": 5, "max": 32} },
+        { "name": "Skorupi",  "rate": 10, "level": { "min": 5, "max": 32} },
+        { "name": "Zoroark",  "rate": 10, "level": 32 },
+        { "name": "Koffing",  "rate": 10, "level": 32 },
+        { "name": "Houndoom",  "rate": 10, "level": 32 },
+        { "name": "Salazzle",  "rate": 10, "level": 32 },
+        { "name": "Skuntank",  "rate": 5, "level": 32 },
+        { "name": "Drapion",  "rate": 5, "level": 32 },
+        { "name": "Yanmega",  "rate": 5, "level": 32 },
+        { "name": "Toxel",  "rate": 4, "level": { "min": 5, "max": 32} },
+        { "name": "Toxtricity",  "rate": 1, "level": 32 }
+    ],
+
+    "Fallarbor Town Land": [
+        { "name": "Perrserker",  "rate": 20, "level": 40 },
+        { "name": "Copperajah",  "rate": 10, "level": 40 },
+        { "name": "Copperajah",  "rate": 10, "level": 40 },
+        { "name": "Karrablast",  "rate": 10, "level": 40 },
+        { "name": "Snubbull",  "rate": 10, "level": { "min": 5, "max": 40} },
+        { "name": "Lairon",  "rate": 10, "level": 40 },
+        { "name": "Clefairy",  "rate": 10, "level": 40 },
+        { "name": "Karrablast",  "rate": 5, "level": 40 },
+        { "name": "Granbull",  "rate": 5, "level": 40 },
+        { "name": "Azumarill",  "rate": 5, "level": 40 },
+        { "name": "Scyther",  "rate": 4, "level": 40 },
+        { "name": "Scyther",  "rate": 1, "level": 40 }
+    ],
+
+    "Desert Underpass Land": [
+        { "name": "Crustle",  "rate": 20, "level": 40 },
+        { "name": "Scolipede",  "rate": 10, "level": 40 },
+        { "name": "Scolipede",  "rate": 10, "level": 40 },
+        { "name": "Nidoqueen",  "rate": 10, "level": 40 },
+        { "name": "Nidoking",  "rate": 10, "level": 40 },
+        { "name": "Drapion",  "rate": 10, "level": 40 },
+        { "name": "Skuntank",  "rate": 10, "level": 40 },
+        { "name": "Crustle",  "rate": 5, "level": 40 },
+        { "name": "Nidoqueen",  "rate": 5, "level": 40 },
+        { "name": "Nidoking",  "rate": 5, "level": 40 },
+        { "name": "Druddigon",  "rate": 4, "level": 40 },
+        { "name": "Druddigon",  "rate": 1, "level": 40 },
+    ],
+
+    "Route 114 Land": [
+        { "name": "Cutiefly",  "rate": 20, "level": { "min": 5, "max": 40} },
+        { "name": "Ribombee",  "rate": 10, "level": 40 },
+        { "name": "Vespiquen",  "rate": 10, "level": 40 },
+        { "name": "Ledian",  "rate": 10, "level": 40 },
+        { "name": "Yanmega",  "rate": 10, "level": 40 },
+        { "name": "Staraptor",  "rate": 10, "level": 40 },
+        { "name": "Talonflame",  "rate": 10, "level": 40 },
+        { "name": "Corviknight",  "rate": 5, "level": 40 },
+        { "name": "Roserade",  "rate": 5, "level": 40 },
+        { "name": "Mudsdale",  "rate": 5, "level": 40 },
+        { "name": "Sirfetch'd",  "rate": 4, "level": 40 },
+        { "name": "Sirfetch'd",  "rate": 1, "level": 40 }
+    ],
+
+    "Route 114 Fishing": [
+        { "name": "Azumarill",  "rate": 20, "level": 40 },
+        { "name": "Araquanid",  "rate": 20, "level": 40 },
+        { "name": "Bruxish",  "rate": 10, "level": 40 },
+        { "name": "Bruxish",  "rate": 10, "level": 40 },
+        { "name": "Magikarp",  "rate": 10, "level": { "min": 5, "max": 40} },
+        { "name": "Gyarados",  "rate": 10, "level": 40 },
+        { "name": "Azumarill",  "rate": 10, "level": 40 },
+        { "name": "Slowpoke",  "rate": 5, "level": 40 },
+        { "name": "Marill",  "rate": 4, "level": 40 },
+        { "name": "Azurill",  "rate": 1, "level": { "min": 5, "max": 40} }
+    ],
+
+    "Route 114 Surf": [
+        { "name": "Slowbro",  "rate": 30, "level": 50 },
+        { "name": "Slowking",  "rate": 30, "level": 50 },
+        { "name": "Gyarados",  "rate": 20, "level": 50 },
+        { "name": "Clawitzer",  "rate": 10, "level": 50 },
+        { "name": "Kingler",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 114 Rock Smash": [
+        { "name": "Geodude-Alola",  "rate": 60, "level": 40 },
+        { "name": "Graveler-Alola",  "rate": 30, "level": 40 },
+        { "name": "Graveler-Alola",  "rate": 5, "level": 40 },
+        { "name": "Graveler-Alola",  "rate": 4, "level": 40 },
+        { "name": "Graveler-Alola",  "rate": 1, "level": 40 }
+    ],
+
+    "Meteor Falls 1F1 Land": [
+        { "name": "Rhydon",  "rate": 20, "level": 40 },
+        { "name": "Aggron",  "rate": 10, "level": 40 },
+        { "name": "Donphan",  "rate": 10, "level": 40 },
+        { "name": "Excadrill",  "rate": 10, "level": 40 },
+        { "name": "Gigalith",  "rate": 10, "level": 40 },
+        { "name": "Mamoswine",  "rate": 10, "level": 40 },
+        { "name": "Steelix",  "rate": 10, "level": 40 },
+        { "name": "Aurorus",  "rate": 5, "level": 40 },
+        { "name": "Clefable",  "rate": 5, "level": 40 },
+        { "name": "Ursaring",  "rate": 5, "level": 40 },
+        { "name": "Larvitar",  "rate": 4, "level": { "min": 5, "max": 40} },
+        { "name": "Pupitar",  "rate": 1, "level": 40 }
+    ],
+
+    "Meteor Falls 1F1 Fishing": [
+        { "name": "Magikarp",  "rate": 20, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 20, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 10, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 10, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 10, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 10, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 10, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 5, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 4, "level": { "min": 5, "max": 40} },
+        { "name": "Magikarp",  "rate": 1, "level": { "min": 5, "max": 40} }
+    ],
+
+    "Meteor Falls 1F1 Surf": [
+        { "name": "Armaldo",  "rate": 30, "level": 50 },
+        { "name": "Cradily",  "rate": 30, "level": 50 },
+        { "name": "Armaldo",  "rate": 20, "level": 50 },
+        { "name": "Cradily",  "rate": 10, "level": 50 },
+        { "name": "Cradily",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 112 Land": [
+        { "name": "Arcanine",  "rate": 20, "level": 40 },
+        { "name": "Arcanine",  "rate": 10, "level": 40 },
+        { "name": "Pyroar",  "rate": 10, "level": 40 },
+        { "name": "Pyroar",  "rate": 10, "level": 40 },
+        { "name": "Rapidash",  "rate": 10, "level": 40 },
+        { "name": "Rapidash",  "rate": 10, "level": 40 },
+        { "name": "Centiskorch",  "rate": 10, "level": 40 },
+        { "name": "Houndoom",  "rate": 5, "level": 40 },
+        { "name": "Salazzle",  "rate": 5, "level": 40 },
+        { "name": "Camerupt",  "rate": 5, "level": 40 },
+        { "name": "Koffing",  "rate": 4, "level": { "min": 5, "max": 40} },
+        { "name": "Weezing",  "rate": 1, "level": 40 }
+    ],
+
+    "Fiery Path Land": [
+        { "name": "Camerupt",  "rate": 20, "level": 40 },
+        { "name": "Camerupt",  "rate": 10, "level": 40 },
+        { "name": "Torkoal",  "rate": 10, "level": 40 },
+        { "name": "Torkoal",  "rate": 10, "level": 40 },
+        { "name": "Torkoal",  "rate": 10, "level": 40 },
+        { "name": "Turtonator",  "rate": 10, "level": 40 },
+        { "name": "Turtonator",  "rate": 10, "level": 40 },
+        { "name": "Weezing",  "rate": 5, "level": 40 },
+        { "name": "Weezing",  "rate": 5, "level": 40 },
+        { "name": "Magby",  "rate": 5, "level": { "min": 5, "max": 40} },
+        { "name": "Magmar",  "rate": 4, "level": 40 },
+        { "name": "Magmortar",  "rate": 1, "level": 40 }
+    ],
+
+    "Mt. Chimney Land": [
+        { "name": "Lucario",  "rate": 20, "level": 40 },
+        { "name": "Lycanroc",  "rate": 10, "level": 40 },
+        { "name": "Lycanroc-Dusk",  "rate": 10, "level": 40 },
+        { "name": "Lycanroc-Midnight",  "rate": 10, "level": 40 },
+        { "name": "Hariyama",  "rate": 10, "level": 40 },
+        { "name": "Conkeldurr",  "rate": 10, "level": 40 },
+        { "name": "Ampharos",  "rate": 10, "level": 40 },
+        { "name": "Altaria",  "rate": 5, "level": 40 },
+        { "name": "Druddigon",  "rate": 5, "level": 40 },
+        { "name": "Turtonator",  "rate": 5, "level": 40 },
+        { "name": "Jangmo-o",  "rate": 4, "level": { "min": 5, "max": 40} },
+        { "name": "Hakomo-o",  "rate": 1, "level": 40 }
+    ],
+
+    "Jagged Pass Land": [
+        { "name": "Turtonator",  "rate": 20, "level": 44 },
+        { "name": "Turtonator",  "rate": 10, "level": 44 },
+        { "name": "Druddigon",  "rate": 10, "level": 44 },
+        { "name": "Druddigon",  "rate": 10, "level": 44 },
+        { "name": "Magmortar",  "rate": 10, "level": 44 },
+        { "name": "Ursaring",  "rate": 10, "level": 44 },
+        { "name": "Wyrdeer",  "rate": 10, "level": 44 },
+        { "name": "Lycanroc",  "rate": 5, "level": 44 },
+        { "name": "Lycanroc-Dusk",  "rate": 5, "level": 44 },
+        { "name": "Lycanroc-Midnight",  "rate": 5, "level": 44 },
+        { "name": "Gible",  "rate": 4, "level": { "min": 5, "max": 44} },
+        { "name": "Gabite",  "rate": 1, "level": 44 }
+    ],
+
+    "Lavaridge Town Gift": [
+        { "name": "Treecko",  "rate": 33, "level": 1 },
+        { "name": "Torchic",  "rate": 33, "level": 1 },
+        { "name": "Mudkip",  "rate": 34, "level": 1 }
+    ],
+
+    "Route 134 Fishing": [
+        { "name": "Sharpedo",  "rate": 20, "level": 50 },
+        { "name": "Barraskewda",  "rate": 20, "level": 50 },
+        { "name": "Lanturn",  "rate": 10, "level": 50 },
+        { "name": "Lanturn",  "rate": 10, "level": 50 },
+        { "name": "Seadra",  "rate": 10, "level": 50 },
+        { "name": "Kingdra",  "rate": 10, "level": 50 },
+        { "name": "Qwilfish-Hisui",  "rate": 10, "level": 50 },
+        { "name": "Qwilfish-Hisui",  "rate": 5, "level": 50 },
+        { "name": "Skrelp",  "rate": 4, "level": { "min": 5, "max": 50} },
+        { "name": "Dragalge",  "rate": 1, "level": 50 }
+    ],
+
+    "Route 134 Surf": [
+        { "name": "Barraskewda",  "rate": 30, "level": 50 },
+        { "name": "Kingdra",  "rate": 30, "level": 50 },
+        { "name": "Overqwil",  "rate": 20, "level": 50 },
+        { "name": "Sharpedo",  "rate": 10, "level": 50 },
+        { "name": "Sharpedo",  "rate": 10, "level": 50 },
+    ],
+
+    "New Mauville (Outside) Land": [
+        { "name": "Togedemaru",  "rate": 20, "level": 50 },
+        { "name": "Manectric",  "rate": 10, "level": 50 },
+        { "name": "Manectric",  "rate": 10, "level": 50 },
+        { "name": "Galvantula",  "rate": 10, "level": 50 },
+        { "name": "Galvantula",  "rate": 10, "level": 50 },
+        { "name": "Boltund",  "rate": 10, "level": 50 },
+        { "name": "Probopass",  "rate": 10, "level": 50 },
+        { "name": "Porygon2",  "rate": 5, "level": 50 },
+        { "name": "Raichu",  "rate": 5, "level": 50 },
+        { "name": "Raichu-Alola",  "rate": 5, "level": 50 },
+        { "name": "Beldum",  "rate": 4, "level": { "min": 5, "max": 50} },
+        { "name": "Metang",  "rate": 1, "level": 50 }
+    ],
+
+    "New Mauville (Inside) Land": [
+        { "name": "Magneton",  "rate": 20, "level": 50 },
+        { "name": "Magnezone",  "rate": 10, "level": 50 },
+        { "name": "Ampharos",  "rate": 10, "level": 50 },
+        { "name": "Ampharos",  "rate": 10, "level": 50 },
+        { "name": "Golem-Alola",  "rate": 10, "level": 50 },
+        { "name": "Golem-Alola",  "rate": 10, "level": 50 },
+        { "name": "Probopass",  "rate": 10, "level": 50 },
+        { "name": "Raichu",  "rate": 5, "level": 50 },
+        { "name": "Raichu-Alola",  "rate": 5, "level": 50 },
+        { "name": "Elekid",  "rate": 5, "level": { "min": 5, "max": 50} },
+        { "name": "Electabuzz",  "rate": 4, "level": 50 },
+        { "name": "Electivire",  "rate": 1, "level": 50 }
+    ],
+
+    "New Mauville Gift": [
+        { "name": "Voltorb-Hisui",  "rate": 1, "level": 40 }
+    ],
+
+    "Route 105 Land": [
+        { "name": "Corviknight",  "rate": 20, "level": 50 },
+        { "name": "Ribombee",  "rate": 10, "level": 50 },
+        { "name": "Ribombee",  "rate": 10, "level": 50 },
+        { "name": "Stufful",  "rate": 10, "level": { "min": 5, "max": 50} },
+        { "name": "Audino",  "rate": 10, "level": 50 },
+        { "name": "Breloom",  "rate": 10, "level": 50 },
+        { "name": "Hawlucha",  "rate": 10, "level": 50 },
+        { "name": "Bewear",  "rate": 5, "level": 50 },
+        { "name": "Aipom",  "rate": 5, "level": 50 },
+        { "name": "Ambipom",  "rate": 5, "level": 50 },
+        { "name": "Exeggutor-Alola",  "rate": 4, "level": 50 },
+        { "name": "Exeggutor-Alola",  "rate": 1, "level": 50 }
+    ],
+
+    "Route 105 Fishing": [
+        { "name": "Barraskewda",  "rate": 20, "level": 50 },
+        { "name": "Barraskewda",  "rate": 20, "level": 50 },
+        { "name": "Lumineon",  "rate": 10, "level": 50 },
+        { "name": "Lumineon",  "rate": 10, "level": 50 },
+        { "name": "Bruxish",  "rate": 10, "level": 50 },
+        { "name": "Clawitzer",  "rate": 10, "level": 50 },
+        { "name": "Crawdaunt",  "rate": 10, "level": 50 },
+        { "name": "Bruxish",  "rate": 5, "level": 50 },
+        { "name": "Wailmer",  "rate": 4, "level": { "min": 5, "max": 50} },
+        { "name": "Wailord",  "rate": 1, "level": 50 }
+    ],
+
+    "Route 105 Surf": [
+        { "name": "Arrokuda",  "rate": 30, "level": { "min": 5, "max": 50} },
+        { "name": "Lumineon",  "rate": 30, "level": 50 },
+        { "name": "Barraskewda",  "rate": 20, "level": 50 },
+        { "name": "Bruxish",  "rate": 10, "level": 50 },
+        { "name": "Dratini",  "rate": 10, "level": { "min": 5, "max": 50} }
+    ],
+
+    "Route 108 Fishing": [
+        { "name": "Dhelmise",  "rate": 20, "level": 50 },
+        { "name": "Basculin",  "rate": 20, "level": { "min": 5, "max": 50} },
+        { "name": "Dhelmise",  "rate": 10, "level": 50 },
+        { "name": "Tentacruel",  "rate": 10, "level": 50 },
+        { "name": "Tentacruel",  "rate": 10, "level": 50 },
+        { "name": "Barraskewda",  "rate": 10, "level": 50 },
+        { "name": "Jellicent",  "rate": 10, "level": 50 },
+        { "name": "Lanturn",  "rate": 5, "level": 50 },
+        { "name": "Dratini",  "rate": 4, "level": { "min": 5, "max": 50} },
+        { "name": "Dragonair",  "rate": 1, "level": 50 }
+    ],
+
+    "Route 108 Surf": [
+        { "name": "Basculin",  "rate": 30, "level": { "min": 5, "max": 50} },
+        { "name": "Arrokuda",  "rate": 30, "level": { "min": 5, "max": 50} },
+        { "name": "Dhelmise",  "rate": 20, "level": 50 },
+        { "name": "Basculegion",  "rate": 10, "level": 50 },
+        { "name": "Barraskewda",  "rate": 10, "level": 50 }
+    ],
+
+    "Abandoned Ship B1F Rooms Fishing": [
+        { "name": "Dhelmise",  "rate": 20, "level": 50 },
+        { "name": "Dhelmise",  "rate": 20, "level": 50 },
+        { "name": "Lanturn",  "rate": 10, "level": 50 },
+        { "name": "Grimer-Alola",  "rate": 10, "level": { "min": 5, "max": 50} },
+        { "name": "Muk-Alola",  "rate": 10, "level": 50 },
+        { "name": "Basculin",  "rate": 10, "level": { "min": 5, "max": 50} },
+        { "name": "Eelektross",  "rate": 10, "level": 50 },
+        { "name": "Lanturn",  "rate": 5, "level": 50 },
+        { "name": "Basculegion",  "rate": 4, "level": 50 },
+        { "name": "Basculegion",  "rate": 1, "level": 50 }
+    ],
+
+    "Abandoned Ship B1F Rooms Surf": [
+        { "name": "Muk-Alola",  "rate": 30, "level": 50 },
+        { "name": "Muk-Alola",  "rate": 30, "level": 50 },
+        { "name": "Basculin-BS",  "rate": 20, "level": { "min": 5, "max": 50} },
+        { "name": "Lanturn",  "rate": 10, "level": 50 },
+        { "name": "Lanturn",  "rate": 10, "level": 50 }
+    ],
+
+    "Route 119 Land": [
+        { "name": "Escavalier",  "rate": 20, "level": 52 },
+        { "name": "Accelgor",  "rate": 10, "level": 52 },
+        { "name": "Toxicroak",  "rate": 10, "level": 52 },
+        { "name": "Seismitoad",  "rate": 10, "level": 52 },
+        { "name": "Gastrodon",  "rate": 10, "level": 52 },
+        { "name": "Araquanid",  "rate": 10, "level": 52 },
+        { "name": "Galvantula",  "rate": 10, "level": 52 },
+        { "name": "Pinsir",  "rate": 5, "level": 52 },
+        { "name": "Heracross",  "rate": 5, "level": 52 },
+        { "name": "Scyther",  "rate": 5, "level": 52 },
+        { "name": "Goomy",  "rate": 4, "level": { "min": 5, "max": 52} },
+        { "name": "Sliggoo",  "rate": 1, "level": 52 }
+    ],
+
+    "Route 119 Fishing": [
+        { "name": "Magikarp",  "rate": 20, "level": { "min": 5, "max": 52} },
+        { "name": "Magikarp",  "rate": 20, "level": { "min": 5, "max": 52} },
+        { "name": "Magikarp",  "rate": 10, "level": { "min": 5, "max": 52} },
+        { "name": "Feebas",  "rate": 10, "level": { "min": 5, "max": 52} },
+        { "name": "Feebas",  "rate": 10, "level": { "min": 5, "max": 52} },
+        { "name": "Skrelp",  "rate": 10, "level": { "min": 5, "max": 52} },
+        { "name": "Frillish",  "rate": 10, "level": { "min": 5, "max": 52} },
+        { "name": "Skrelp",  "rate": 5, "level": { "min": 5, "max": 52} },
+        { "name": "Skrelp",  "rate": 4, "level": { "min": 5, "max": 52} }
+        { "name": "Dragalge",  "rate": 1, "level": 52 }
+    ],
+
+    "Route 119 Surf": [
+        { "name": "Milotic",  "rate": 30, "level": 52 },
+        { "name": "Dragalge",  "rate": 30, "level": 52 },
+        { "name": "Gyarados",  "rate": 20, "level": 52 },
+        { "name": "Milotic",  "rate": 10, "level": 52 },
+        { "name": "Jellicent",  "rate": 10, "level": 52 }
+    ],
+
+    "Route 119 Gift": [
+        { "name": "Castform", "rate": 1, "level": 25 }
+    ]
+}

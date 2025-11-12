@@ -1,0 +1,42 @@
+{
+  "Sandshrew-Alola": [
+    {
+      "minLevel": 5,
+      "context": "Norman",
+      "moves": ["Avalanche", "Iron Head", "Ice Punch", "Ice Shard"],
+      "finalEvolution": "Sandslash-Alola"
+    },
+    {
+      "minLevel": 5,
+      "context": "Winstitute",
+      "moves": ["Avalanche", "Iron Head", "Icicle Crash", "Ice Shard"],
+      "finalEvolution": "Sandslash-Alola"
+    },
+    {
+      "minLevel": 18,
+      "context": "Norman",
+      "moves": ["Avalanche", "Iron Head", "Ice Punch", "Stomping Tantrum"],
+      "finalEvolution": "Sandslash-Alola"
+    },
+    {
+      "minLevel": 18,
+      "context": "Winstitute",
+      "moves": ["Avalanche", "Iron Head", "Icicle Crash", "Stomping Tantrum"],
+      "finalEvolution": "Sandslash-Alola"
+    }
+  ],
+  "Magikarp": [
+    {
+      "minLevel": 5,
+      "context": "Winstitute",
+      "moves": ["Waterfall", "Ice Fang", "Crunch", "Bounce"],
+      "finalEvolution": "Gyarados"
+    },
+    {
+      "minLevel": 42,
+      "context": "Winstitute",
+      "moves": ["Waterfall", "Ice Beam", "Crunch", "Bounce"],
+      "finalEvolution": "Gyarados"
+    }
+  ]
+}
