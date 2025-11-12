@@ -1,0 +1,4 @@
+{
+  "Norman": { "name": "Norman", "level": 42, "splits": { "start": 1, "end": 6 } },
+  "Winstitute": { "name": "Winstitute", "level": 65, "splits": { "start": 1, "end": 10 } }
+}

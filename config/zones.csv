@@ -1,0 +1,100 @@
+zone,subzone,split
+Littleroot Town,Fishing,1
+Littleroot Town,Surf,10
+Route 101,Land,1
+Oldale Town,Land,1
+Route 103,Land,1
+Route 103,Fishing,1
+Route 103,Surf,10
+Route 102,Land,1
+Route 102,Fishing,1
+Route 102,Surf,10
+Petalburg City,Fishing,1
+Petalburg City,Surf,10
+Route 104,Land,1
+Route 104,Fishing,1
+Route 104,Surf,10
+Dewford Town,Land,2
+Dewford Town,Fishing,2
+Dewford Town,Surf,10
+Route 107,Fishing,2
+Route 107,Surf,10
+Route 106,Fishing,2
+Route 106,Surf,10
+Granite Cave,1F Land,2
+Granite Cave,B1F Land,2
+Granite Cave,B2F Land,2
+Granite Cave,B2F Rock Smash,2
+Granite Cave,"Steven's Room
+ Land",2
+Route 109,Fishing,2
+Route 109,Surf,10
+Slateport City,Fishing,2
+Slateport City,Surf,10
+Route 110,Land,2
+Route 110,Fishing,2
+Route 110,Surf,10
+Petalburg Woods,Land,3
+Rustboro City,Land,3
+Rustboro City,Other,7
+Route 115,Land,20
+Route 115,Fishing,3
+Route 115,Surf,10
+Route 116,Land,3
+Rusturf Tunnel,Land,3
+Verdanturf Town,Land,4
+Route 117,Land,4
+Route 117,Fishing,4
+Route 117,Surf,10
+Route 111,Land,7
+Route 111,Fishing,5
+Route 111,Surf,10
+Route 111,Rock Smash,5
+Route 118,Land,10
+Route 118,Fishing,5
+Route 118,Surf,10
+Altering Cave,Land,6
+Mirage Tower,1F Land,7
+Mirage Tower,2F Land,7
+Mirage Tower,3F Land,7
+Mirage Tower,4F Land,7
+Route 113,Land,7
+Fallarbor Town,Land,8
+Desert Underpass,Land,8
+Route 114,Land,8
+Route 114,Fishing,8
+Route 114,Surf,10
+Route 114,Rock Smash,8
+Meteor Falls ,1F1 Land,8
+Meteor Falls ,1F1 Fishing,8
+Meteor Falls ,1F1 Surf,10
+Meteor Falls ,1F2 Land,20
+Meteor Falls ,1F2 Fishing,20
+Meteor Falls ,1F2 Surf,20
+Meteor Falls ,B1F1 Land,20
+Meteor Falls ,B1F1 Fishing,20
+Meteor Falls ,B1F1 Surf,20
+Meteor Falls ,B1F2 Land,20
+Meteor Falls ,B1F2 Fishing,20
+Meteor Falls ,B1F2 Surf,20
+Route 112,Land,8
+Fiery Path,Land,8
+Mt. Chimney,Land,8
+Jagged Pass,Land,9
+Lavaridge Town,Other,9
+Route 134,Fishing,10
+Route 134,Surf,10
+New Mauville,(Outside) Land,10
+New Mauville,(Inside) Land,10
+New Mauville,Other,10
+Route 105,Land,10
+Route 105,Fishing,10
+Route 105,Surf,10
+Route 108,Fishing,10
+Route 108,Surf,10
+Abandoned Ship B1F Rooms,Fishing,10
+Abandoned Ship B1F Rooms,Surf,10
+Route 119,Land,10
+Route 119,Fishing,10
+Route 119,Surf,10
+Route 119,Other,10
