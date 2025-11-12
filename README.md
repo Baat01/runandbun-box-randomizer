@@ -39,32 +39,6 @@ After configuring and saving through the launcher:
 
 (Note: currently, all affected PC slots must contain valid Pokémon for the function to execute properly.)
 
----
-
-## Fonctionnement
-
-Lancez `launcher.py`.
-
-## Menu principal du launcher
-
-- “Langue” : permet de changer la langue (non fonctionnel pour l’instant)
-- ”Regional Variant Dupes Clause” : permet de choisir le paramètre de dupe clause pour les variant régionals
-- ”Difficulté” : permet de choisir la difficulté (non implémenté pour l’instant)(nombre de mort au lancement du script)
-”Preset” :
-- “Lancer” : Sauvegardes les paramètres choisi pour l’execution du script
-
-## Menu principal du launcher
-
-- “Subzone” : Permet de choisir les parties des zones qu’on va faire sur le préset (Land/Surf…). Si une zone possède une subzone disponible plus tard dans le jeu (exemple : Rustboro City Other (Fossile) au moment du Norman Split), une option “Delay” deviens disponible et permet de ne pas roll l’encounter
-- ”Encounter Manipulation” : Permet de choisir si on veut lead magnet pull ou static si on a obtenu un pokémon le permettant avant
-- ”Repel Manip” : Permet de choisir si on veut repel manip la zone pour avoir uniquement les pokémon niveaux max
-- ”Zone Numéro” : Permet de choisir l’ordre des zone qui vont être roll (non fonctionnel pour le moment)
-
-## Fonctionnement du script
-
-1. Une fois avoir lancé le launcher et sauvegarder les paramètres avec le bouton “Lancer”, charger le script dans l’émulateur
-2. Un onglet “Randomizer” devrait apparaître, avec les différentes info des settings dans la console
-3. Lancez la fonction `randomizeBox()` pour randomizer selon les settings (pour l’instant, des pokémons doivent être présent sur tous les slots modifiés pour que la fonction s’exécute bien)
 
 ---
 
@@ -326,7 +300,33 @@ To create a **simple and plug-and-play tool** capable of:
 
 Contact: **Baat01#1245** on Discord
 
+
 ---
+
+## Fonctionnement
+
+Lancez `launcher.py`.
+
+## Menu principal du launcher
+
+- “Langue” : permet de changer la langue (non fonctionnel pour l’instant)
+- ”Regional Variant Dupes Clause” : permet de choisir le paramètre de dupe clause pour les variant régionals
+- ”Difficulté” : permet de choisir la difficulté (non implémenté pour l’instant)(nombre de mort au lancement du script)
+”Preset” :
+- “Lancer” : Sauvegardes les paramètres choisi pour l’execution du script
+
+## Menu principal du launcher
+
+- “Subzone” : Permet de choisir les parties des zones qu’on va faire sur le préset (Land/Surf…). Si une zone possède une subzone disponible plus tard dans le jeu (exemple : Rustboro City Other (Fossile) au moment du Norman Split), une option “Delay” deviens disponible et permet de ne pas roll l’encounter
+- ”Encounter Manipulation” : Permet de choisir si on veut lead magnet pull ou static si on a obtenu un pokémon le permettant avant
+- ”Repel Manip” : Permet de choisir si on veut repel manip la zone pour avoir uniquement les pokémon niveaux max
+- ”Zone Numéro” : Permet de choisir l’ordre des zone qui vont être roll (non fonctionnel pour le moment)
+
+## Fonctionnement du script
+
+1. Une fois avoir lancé le launcher et sauvegarder les paramètres avec le bouton “Lancer”, charger le script dans l’émulateur
+2. Un onglet “Randomizer” devrait apparaître, avec les différentes info des settings dans la console
+3. Lancez la fonction `randomizeBox()` pour randomizer selon les settings (pour l’instant, des pokémons doivent être présent sur tous les slots modifiés pour que la fonction s’exécute bien)---
 
 ## 1. Présentation générale
 
