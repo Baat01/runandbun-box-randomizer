@@ -1,0 +1,151 @@
+{
+  "name": "tryhard",
+  "difficulty": "normal",
+  "context": "Norman",
+  "zones": {
+    "Littleroot Town": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 1
+    },
+    "Route 101": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 2
+    },
+    "Oldale Town": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 3
+    },
+    "Route 103": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 4
+    },
+    "Route 102": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 5
+    },
+    "Petalburg City": {
+      "subzone": "Delay",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 6
+    },
+    "Route 104": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 7
+    },
+    "Dewford Town": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 8
+    },
+    "Route 107": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 9
+    },
+    "Route 106": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 10
+    },
+    "Granite Cave": {
+      "subzone": "1F Land",
+      "repel": false,
+      "magnet_pull_or_static": "static",
+      "zone_number": 14
+    },
+    "Route 109": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 11
+    },
+    "Slateport City": {
+      "subzone": "Delay",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 12
+    },
+    "Route 110": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 13
+    },
+    "Petalburg Woods": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 15
+    },
+    "Rustboro City": {
+      "subzone": "Delay",
+      "repel": false,
+      "magnet_pull_or_static": "static",
+      "zone_number": 16
+    },
+    "Route 115": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 17
+    },
+    "Route 116": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 18
+    },
+    "Rusturf Tunnel": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 19
+    },
+    "Verdanturf Town": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 20
+    },
+    "Route 117": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "mpull",
+      "zone_number": 21
+    },
+    "Route 111": {
+      "subzone": "Delay",
+      "repel": false,
+      "magnet_pull_or_static": "mpull",
+      "zone_number": 22
+    },
+    "Route 118": {
+      "subzone": "Delay",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 23
+    },
+    "Altering Cave": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 24
+    }
+  }
+}

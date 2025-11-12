@@ -1,0 +1,253 @@
+{
+  "name": "tryhard_winstitute",
+  "difficulty": "normal",
+  "context": "Winstitute",
+  "zones": {
+    "Littleroot Town": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 1
+    },
+    "Route 101": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 2
+    },
+    "Oldale Town": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 3
+    },
+    "Route 103": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 4
+    },
+    "Route 102": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 5
+    },
+    "Petalburg City": {
+      "subzone": "Surf",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 6
+    },
+    "Route 104": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 7
+    },
+    "Dewford Town": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 8
+    },
+    "Route 107": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 9
+    },
+    "Route 106": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 10
+    },
+    "Granite Cave": {
+      "subzone": "1F Land",
+      "repel": false,
+      "magnet_pull_or_static": "static",
+      "zone_number": 14
+    },
+    "Route 109": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 11
+    },
+    "Slateport City": {
+      "subzone": "Surf",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 12
+    },
+    "Route 110": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 13
+    },
+    "Petalburg Woods": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 15
+    },
+    "Rustboro City": {
+      "subzone": "Other",
+      "repel": false,
+      "magnet_pull_or_static": "static",
+      "zone_number": 16
+    },
+    "Route 115": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 17
+    },
+    "Route 116": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 18
+    },
+    "Rusturf Tunnel": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 19
+    },
+    "Verdanturf Town": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 20
+    },
+    "Route 117": {
+      "subzone": "Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "mpull",
+      "zone_number": 21
+    },
+    "Route 111": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "mpull",
+      "zone_number": 22
+    },
+    "Route 118": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 23
+    },
+    "Altering Cave": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "static",
+      "zone_number": 24
+    },
+    "Mirage Tower": {
+      "subzone": "1F Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 25
+    },
+    "Route 113": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 26
+    },
+    "Fallarbor Town": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "mpull",
+      "zone_number": 27
+    },
+    "Desert Underpass": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 28
+    },
+    "Route 114": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 29
+    },
+    "Meteor Falls ": {
+      "subzone": "1F1 Fishing",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 30
+    },
+    "Route 112": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 31
+    },
+    "Fiery Path": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 32
+    },
+    "Mt. Chimney": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 33
+    },
+    "Jagged Pass": {
+      "subzone": "Land",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 34
+    },
+    "Lavaridge Town": {
+      "subzone": "Other",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 35
+    },
+    "Route 134": {
+      "subzone": "Surf",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 36
+    },
+    "New Mauville": {
+      "subzone": "Other",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 37
+    },
+    "Route 105": {
+      "subzone": "Land",
+      "repel": true,
+      "magnet_pull_or_static": "mpull",
+      "zone_number": 38
+    },
+    "Route 108": {
+      "subzone": "Surf",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 39
+    },
+    "Abandoned Ship B1F Rooms": {
+      "subzone": "Surf",
+      "repel": true,
+      "magnet_pull_or_static": "none",
+      "zone_number": 40
+    },
+    "Route 119": {
+      "subzone": "Other",
+      "repel": false,
+      "magnet_pull_or_static": "none",
+      "zone_number": 41
+    }
+  }
+}
